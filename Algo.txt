@@ -7,3 +7,5 @@ Call Pizza Joint
 5. Wait for delivery
 6. Greet delivery driver
 7. See step 4b if necessary
+8. Tip delivery driver
+9. Thank the driver
